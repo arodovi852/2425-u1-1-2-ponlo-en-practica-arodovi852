@@ -1,4 +1,4 @@
-# Práctica 1: Introducción al desarrollo. Reflexiones.
+# Práctica 2: Introducción al desarrollo. Ponlo en práctica. 
 
 Apoyate en los siguientes recursos para realizar la práctica:
 
